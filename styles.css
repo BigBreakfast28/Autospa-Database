@@ -1,0 +1,46 @@
+.anton-sc-regular {
+    font-family: "Anton SC", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+ .best-spa {
+    color: gray;
+    font-weight: 800;
+ }
+
+ .contact-me {
+    background-image: url(./images/polishedcar.jpg);
+    padding: 20vw;
+    background-size: cover;
+ }
+
+.bg-standard {
+    background-color: goldenrod;
+}
+
+.bg-full {
+    background-color: red;
+}
+
+.bg-platinum {
+    background-color: #e5e4e2;
+}
+
+.service-heading {
+    background-image: url(./images/vacuum.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding:20vw;
+    background-position-y: 35%;
+}
+
+.open-sans-uniquifier {
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+      font-weight: 600;
+  }
+  

@@ -1,0 +1,10 @@
+<?php 
+
+$server;
+$username;
+$database;
+$password;
+
+$mysqli = new mysqli($server, $username, $database, $password);
+
+mysqli_report(E_ALL);
